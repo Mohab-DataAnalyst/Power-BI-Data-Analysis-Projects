@@ -1,4 +1,4 @@
-# Power BI Projects 🔄📊
+# Power BI Projects 📈🎨
 
 This repository serves as an index for all my Power BI projects.
 
